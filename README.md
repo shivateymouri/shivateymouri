@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate Frontend Developer specializing in building scalable and performant web applications. I enjoy working with modern technologies and continuously improving my skills.
+I'm a passionate Frontend Developer.
 
 
 - 🌱 Currently learning: Frontend Development.
