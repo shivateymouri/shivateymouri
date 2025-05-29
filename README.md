@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer specializing in building scalable and perfor
 - 🌱 Currently learning: Frontend Development.
 - 💬 Ask me about: HTML,CSS,Tailwind,JavaScript, React, Next.js
 - 👯 Open to collaborate on open source projects and exciting startups
-- 📫 How to reach me: [your.email@example.com](shivateymouri.st@gmail.com)
+- 📫 How to reach me: [shivateymouri.st@gmail.com]
 - ⚡ Fun fact: I love learning new things and coding!
 
 ---
@@ -29,9 +29,9 @@ I'm a passionate Frontend Developer specializing in building scalable and perfor
 
 ## Get in Touch
 
-- 📧 Email: [your.email@example.com](shivateymouri.st@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](http://www.linkedin.com/in/shiva-teymoori)  
-- 📸 Instagram: [@yourusername](https://www.instagram.com/shivateymouri.dev?igsh=MXh3NXBhMjhsZ2tiYg==)
+- 📧 Email: [shivateymouri.st@gmail.com]
+- 🔗 LinkedIn: [http://www.linkedin.com/in/shiva-teymoori]
+- 📸 Instagram: [[@yourusername](https://www.instagram.com/shivateymouri.dev?igsh=MXh3NXBhMjhsZ2tiYg==)]
 
 ---
 
