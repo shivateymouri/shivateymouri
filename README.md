@@ -6,7 +6,7 @@
 
 I'm a passionate Frontend Developer specializing in building scalable and performant web applications. I enjoy working with modern technologies and continuously improving my skills.
 
-- 🔭 Currently working on: [Project Name](https://github.com/username/project)
+
 - 🌱 Currently learning: Frontend Development.
 - 💬 Ask me about: HTML,CSS,Tailwind,JavaScript, React, Next.js
 - 👯 Open to collaborate on open source projects and exciting startups
