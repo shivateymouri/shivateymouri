@@ -31,7 +31,7 @@ I'm a passionate Frontend Developer specializing in building scalable and perfor
 
 - 📧 Email: [shivateymouri.st@gmail.com]
 - 🔗 LinkedIn: [http://www.linkedin.com/in/shiva-teymoori]
-- 📸 Instagram: [[@yourusername](https://www.instagram.com/shivateymouri.dev?igsh=MXh3NXBhMjhsZ2tiYg==)]
+- 📸 Instagram: [https://www.instagram.com/shivateymouri.dev?igsh=MXh3NXBhMjhsZ2tiYg==]
 
 ---
 
