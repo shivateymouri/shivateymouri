@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm ُ Shiva Teymouri
 
-![Profile Banner]()
+![Profile Banner](https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png)
 
 ## About Me
 
